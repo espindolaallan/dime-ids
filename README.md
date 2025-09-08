@@ -19,9 +19,9 @@ The dataset used in the paper is available at:
 
 If you use this code in your research, please cite our paper (currently under review at **JNCA**):
 
-> Espindola, A., Viegas, E., Casimiro, A., Santin, A., Ferreira, P.  
+> Espindola, A., Casimiro, A., Santin, A., Ferreira, P., Viegas, E.  
 > *Enhancing Intrusion Detection Generalization via Diversity-Driven Multi-View Ensemble Learning in Industrial Systems.*  
-> Submitted to **Journal of Network and Computer Applications (JNCA)**, 2025.
+> Submitted to **Future Generation Computer Systems (FGCS)**, 2025.
 
 ## License
 
