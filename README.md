@@ -23,6 +23,7 @@ If you use this code in your research, please cite:
 @article{ESPINDOLA2026108458,
   title = {Enhancing Intrusion Detection Generalization via Diversity-Driven Multi-View Ensemble Learning in Industrial Systems},
   journal = {Future Generation Computer Systems},
+  volume = {182},
   pages = {108458},
   year = {2026},
   issn = {0167-739X},
